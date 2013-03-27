@@ -1,0 +1,10 @@
+NDEF TEXTで「OK」となっているNDEFタグをかざすと、OKっぽい音がします。
+それ以外のNDEFでは、NGっぽい音がします。
+NDEF以外だと、失敗したような音がします。
+
+NDEF TEXTの読み方は、こちらを参考にしました。
+	ブリリアントサービス NFC技術ブログ : http://bs-nfc.blogspot.jp/2012/08/androidrtd-text.html
+
+音はこちらからいただきました。
+	魔王魂 : http://maoudamashii.jokersounds.com/
+
